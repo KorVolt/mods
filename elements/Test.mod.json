@@ -1,0 +1,93 @@
+{
+  "_fv": 47,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_choisi_mec",
+          "text": {
+            "fixedValue": "choisi mec"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 44
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_quoicoubeh",
+          "text": "nether",
+          "onClick": {
+            "name": "Testt"
+          },
+          "width": 77,
+          "height": 20,
+          "x": 141,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_feur",
+          "text": "fly",
+          "onClick": {
+            "name": "Bite"
+          },
+          "width": 46,
+          "height": 20,
+          "x": 231,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_ouifi",
+          "text": "no fly",
+          "onClick": {
+            "name": "Unfly"
+          },
+          "width": 51,
+          "height": 20,
+          "x": 231,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_ta_gueule",
+          "text": "Terre",
+          "onClick": {
+            "name": "Terre"
+          },
+          "width": 72,
+          "height": 20,
+          "x": 141,
+          "y": 89
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

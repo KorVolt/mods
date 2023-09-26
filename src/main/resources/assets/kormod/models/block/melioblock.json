@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kormod:block/meliore",
+    "up": "kormod:block/meliore",
+    "north": "kormod:block/meliore",
+    "east": "kormod:block/meliore",
+    "south": "kormod:block/meliore",
+    "west": "kormod:block/meliore",
+    "particle": "kormod:block/meliore"
+  },
+  "render_type": "solid"
+}

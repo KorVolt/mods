@@ -1,0 +1,37 @@
+{
+  "_fv": 47,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "couteaudelancer",
+    "customModelName": "Normal",
+    "name": "Couteaudelancer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Melimod"
+    },
+    "stackSize": 8,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": true,
+    "animation": "spear",
+    "enableMeleeDamage": true,
+    "damageVsEntity": 8.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 8.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Couteaudelancer"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "mod_elements": [
+    {
+      "name": "Melioblock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melioblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kormod/models/item/melioblock.json",
+          "src/main/resources/data/kormod/worldgen/placed_feature/melioblock.json",
+          "src/main/java/net/mcreator/kormod/world/features/ores/MelioblockFeature.java",
+          "src/main/resources/assets/kormod/models/block/melioblock.json",
+          "src/main/resources/assets/kormod/blockstates/melioblock.json",
+          "src/main/resources/data/kormod/forge/biome_modifier/melioblock_biome_modifier.json",
+          "src/main/java/net/mcreator/kormod/block/MelioblockBlock.java",
+          "src/main/resources/data/kormod/worldgen/configured_feature/melioblock.json"
+        ]
+      }
+    },
+    {
+      "name": "Melioraisimparfait",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melioraisimparfait",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kormod/models/item/melioraisimparfait.json",
+          "src/main/java/net/mcreator/kormod/item/MelioraisimparfaitItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Melingot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kormod/models/item/melingot.json",
+          "src/main/java/net/mcreator/kormod/item/MelingotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Melimod",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melimod",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Melinh",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melinh",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kormod/recipes/melichange.json"
+        ]
+      }
+    },
+    {
+      "name": "Melio",
+      "type": "armor",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melio",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/item/MelioItem.java",
+          "src/main/resources/assets/kormod/models/item/melio_boots.json",
+          "src/main/resources/assets/kormod/models/item/melio_helmet.json",
+          "src/main/resources/assets/kormod/models/item/melio_chestplate.json",
+          "src/main/resources/assets/kormod/models/item/melio_leggings.json"
+        ]
+      }
+    },
+    {
+      "name": "Casque",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "casque",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kormod/recipes/casque.json"
+        ]
+      }
+    },
+    {
+      "name": "Plastron",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plastron",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kormod/recipes/plastron.json"
+        ]
+      }
+    },
+    {
+      "name": "Jambiere",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jambiere",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kormod/recipes/jambiere.json"
+        ]
+      }
+    },
+    {
+      "name": "Bottes",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bottes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kormod/recipes/bottes.json"
+        ]
+      }
+    },
+    {
+      "name": "Couteaudelancer",
+      "type": "rangeditem",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "couteaudelancer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/entity/CouteaudelancerEntity.java",
+          "src/main/resources/assets/kormod/models/item/couteaudelancer.json",
+          "src/main/java/net/mcreator/kormod/item/CouteaudelancerItem.java"
+        ]
+      }
+    },
+    {
+      "name": "PIOCHE",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pioche",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kormod/models/item/pioche.json",
+          "src/main/java/net/mcreator/kormod/item/PIOCHEItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Epee",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epee",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/item/EpeeItem.java",
+          "src/main/resources/assets/kormod/models/item/epee.json"
+        ]
+      }
+    },
+    {
+      "name": "Test",
+      "type": "gui",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/world/inventory/TestMenu.java",
+          "src/main/java/net/mcreator/kormod/client/gui/TestScreen.java",
+          "src/main/java/net/mcreator/kormod/network/TestButtonMessage.java"
+        ]
+      }
+    },
+    {
+      "name": "Testt",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "testt",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/procedures/TesttProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Guii",
+      "type": "keybind",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guii",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/network/GuiiMessage.java"
+        ]
+      }
+    },
+    {
+      "name": "Bite",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bite",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/procedures/BiteProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pointdi",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pointdi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/item/PointdiItem.java",
+          "src/main/resources/assets/kormod/models/item/pointdi.json",
+          "src/main/java/net/mcreator/kormod/item/inventory/PointdiInventoryCapability.java"
+        ]
+      }
+    },
+    {
+      "name": "Backpack",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backpack",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/item/inventory/BackpackInventoryCapability.java",
+          "src/main/java/net/mcreator/kormod/item/BackpackItem.java",
+          "src/main/resources/assets/kormod/models/item/backpack.json"
+        ]
+      }
+    },
+    {
+      "name": "Coffreportable",
+      "type": "gui",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coffreportable",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/client/gui/CoffreportableScreen.java",
+          "src/main/java/net/mcreator/kormod/world/inventory/CoffreportableMenu.java"
+        ]
+      }
+    },
+    {
+      "name": "Gemme",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gemme",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/item/GemmeItem.java",
+          "src/main/resources/assets/kormod/models/item/gemme.json"
+        ]
+      }
+    },
+    {
+      "name": "Coffrepb",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coffrepb",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kormod/recipes/coffrepb.json"
+        ]
+      }
+    },
+    {
+      "name": "Rtgemmes",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rtgemmes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kormod/recipes/rtgemmes.json"
+        ]
+      }
+    },
+    {
+      "name": "Terre",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "terre",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/procedures/TerreProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Unfly",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unfly",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kormod/procedures/UnflyProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "gui.kormod.test.button_ouifi": "no fly",
+      "item.kormod.melio_helmet": "Casque en Melio",
+      "item.kormod.epee": "Epee",
+      "item.kormod.melioraisimparfait": "Melioraisimparfait",
+      "item.kormod.pointdi": "Pointdi",
+      "item.kormod.melio_chestplate": "Plastron Melio",
+      "item.kormod.pioche": "PIOCHE",
+      "gui.kormod.test.label_choisi_mec": "choisi mec",
+      "block.kormod.melioblock": "melio ore",
+      "gui.kormod.test.button_feur": "fly",
+      "item.kormod.melio_leggings": "Jambières de Melio",
+      "item.kormod.melio_boots": "Bottes en Melio",
+      "key.kormod.guii": "Guii",
+      "item.kormod.gemme": "Gemme",
+      "item.kormod.melingot": "Melingot",
+      "item.kormod.backpack": "Backpack",
+      "item_group.kormod.melimod": "Melimod",
+      "item.kormod.couteaudelancer": "Couteaudelancer",
+      "gui.kormod.test.button_quoicoubeh": "nether",
+      "gui.kormod.test.button_ta_gueule": "Terre"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "kormod",
+    "modName": "kormod",
+    "version": "1.0.0",
+    "author": "bourk, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.kormod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}

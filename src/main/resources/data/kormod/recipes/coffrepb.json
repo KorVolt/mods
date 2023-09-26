@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chest"
+    },
+    "1": {
+      "item": "minecraft:chest"
+    },
+    "2": {
+      "item": "minecraft:chest"
+    },
+    "3": {
+      "item": "minecraft:chest"
+    },
+    "4": {
+      "item": "kormod:gemme"
+    },
+    "5": {
+      "item": "minecraft:chest"
+    },
+    "6": {
+      "item": "minecraft:chest"
+    },
+    "7": {
+      "item": "minecraft:chest"
+    },
+    "8": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "kormod:backpack",
+    "count": 1
+  }
+}

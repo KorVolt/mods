@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "melifour",
+  "category": "misc",
+  "experience": 2,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "kormod:melioraisimparfait"
+  },
+  "result": "kormod:melingot"
+}

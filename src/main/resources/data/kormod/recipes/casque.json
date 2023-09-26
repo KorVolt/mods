@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kormod:melingot"
+    },
+    "1": {
+      "item": "kormod:melingot"
+    },
+    "2": {
+      "item": "kormod:melingot"
+    },
+    "3": {
+      "item": "kormod:melingot"
+    },
+    "5": {
+      "item": "kormod:melingot"
+    }
+  },
+  "result": {
+    "item": "kormod:melio_helmet",
+    "count": 1
+  }
+}

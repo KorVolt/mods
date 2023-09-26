@@ -1,0 +1,22 @@
+{
+  "gui.kormod.test.button_ouifi": "no fly",
+  "item.kormod.melio_helmet": "Casque en Melio",
+  "item.kormod.epee": "Epee",
+  "item.kormod.melioraisimparfait": "Melioraisimparfait",
+  "item.kormod.pointdi": "Pointdi",
+  "item.kormod.melio_chestplate": "Plastron Melio",
+  "item.kormod.pioche": "PIOCHE",
+  "gui.kormod.test.label_choisi_mec": "choisi mec",
+  "block.kormod.melioblock": "melio ore",
+  "gui.kormod.test.button_feur": "fly",
+  "item.kormod.melio_leggings": "Jambières de Melio",
+  "item.kormod.melio_boots": "Bottes en Melio",
+  "key.kormod.guii": "Guii",
+  "item.kormod.gemme": "Gemme",
+  "item.kormod.melingot": "Melingot",
+  "item.kormod.backpack": "Backpack",
+  "item_group.kormod.melimod": "Melimod",
+  "item.kormod.couteaudelancer": "Couteaudelancer",
+  "gui.kormod.test.button_quoicoubeh": "nether",
+  "gui.kormod.test.button_ta_gueule": "Terre"
+}

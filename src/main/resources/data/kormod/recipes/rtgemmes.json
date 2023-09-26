@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "kormod:melingot"
+    },
+    "3": {
+      "item": "kormod:melingot"
+    },
+    "4": {
+      "item": "kormod:melioraisimparfait"
+    },
+    "5": {
+      "item": "kormod:melingot"
+    },
+    "7": {
+      "item": "kormod:melingot"
+    }
+  },
+  "result": {
+    "item": "kormod:gemme",
+    "count": 1
+  }
+}

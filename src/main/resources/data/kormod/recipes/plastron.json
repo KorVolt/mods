@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kormod:melingot"
+    },
+    "2": {
+      "item": "kormod:melingot"
+    },
+    "3": {
+      "item": "kormod:melingot"
+    },
+    "4": {
+      "item": "kormod:melingot"
+    },
+    "5": {
+      "item": "kormod:melingot"
+    },
+    "6": {
+      "item": "kormod:melingot"
+    },
+    "7": {
+      "item": "kormod:melingot"
+    },
+    "8": {
+      "item": "kormod:melingot"
+    }
+  },
+  "result": {
+    "item": "kormod:melio_chestplate",
+    "count": 1
+  }
+}
